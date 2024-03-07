@@ -2,23 +2,38 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Welcome to the Jot documentation page!
+This page will tell you all about how to use Jot.
+First of all, Jot's default prefix is `!`.
 
-[Link to another page](./another-page.html).
+### Table of Contents
+> Common Commands
+> Customize and Self-Host
+> All Commands
+> About
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Common Commands
+**These are 50 of the most common commands. They will be different based on which prefix you have selected.**
+### Moderation
+`!ban` - Bans a user.
+```
+!ban @Jabin being silly
+!ban 1157581620795158628 troll
+```
+`!modnick` - Changes a user's nickname to something more appropriate (random adjective, noun, and country!).
+```
+!modnick @Jabin
+!modnick 1157581620795158628
+```
+### Fun
+`!ping` - Responds with "pong!" and the response time.
+```
+!ping
+```
+`!yesorno` - Reacts with 👍 and 👎 to your message for other people to vote.
+```
+!yesorno Is it raining where you are?
+```
 
 ### Header 3
 
