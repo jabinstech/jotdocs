@@ -1,2 +1,1 @@
-# jotdocs
-Documentation and hosting for the Jot bot.
+# Jot3: Docs
